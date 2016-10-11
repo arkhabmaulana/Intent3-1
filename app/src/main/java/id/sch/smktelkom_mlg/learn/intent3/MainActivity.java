@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 dialPhoneNumber("0341712500");
-
             }
         });
     }
